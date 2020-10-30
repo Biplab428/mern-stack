@@ -1,0 +1,17 @@
+{
+  "name": "crudjs",
+  "version": "1.0.0",
+  "description": "this tutorial is from telisko channel about creating crud api using node express and mongodb",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "yash",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.2",
+    "mongoose": "^5.10.11",
+    "nodemon": "^2.0.6"
+  }
+}
